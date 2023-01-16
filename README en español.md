@@ -8,11 +8,11 @@
 ## **Descripción del problema (Contexto y rol a desarrollar)**
 
 Somos un grupo de 5 integrantes del Bootcamp de Henry, y éste es nuestro Proyecto Final.
-- Damián Buch Repo:
-- Gisela Medina Repo:
-- Martin Menéndez Repo: https://github.com/bigdatamartin
-- Mauro Cadme Repo:
-- Miguel Salas Repo: 
+- [Damián Buch GitHub](https://github.com/Damiano7)
+- [Gisela Medina GitHub](https://github.com/GMDP)
+- [Martin Menéndez GitHub](https://github.com/bigdatamartin)
+- [Mauro Cadme GitHub](https://github.com/mecadme)
+- [Miguel Salas GitHub](https://github.com/Emblask39)
 
 ### **Contexto**
 
