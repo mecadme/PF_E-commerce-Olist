@@ -5,11 +5,11 @@
 ## **Problem Description (Context and role to develop)**
 
 We are a group of 5 students from the Henry Bootcamp, and this is our Final Project.
-- [Damián Buch Repo](https://github.com/Damiano7)
-- [Gisela Medina Repo](https://github.com/GMDP)
-- [Martin Menéndez Repo](https://github.com/bigdatamartin)
-- [Mauro Cadme Repo](https://github.com/mecadme)
-- [Miguel Salas Repo](https://github.com/Emblask39)
+- [Damián Buch GitHub](https://github.com/Damiano7)
+- [Gisela Medina GitHub](https://github.com/GMDP)
+- [Martin Menéndez GitHub](https://github.com/bigdatamartin)
+- [Mauro Cadme GitHub](https://github.com/mecadme)
+- [Miguel Salas GitHub](https://github.com/Emblask39)
 
 ### **Context**
 
