@@ -5,10 +5,10 @@
 ## **Problem Description (Context and role to develop)**
 
 We are a group of 5 students from the Henry Bootcamp, and this is our Final Project.
-- Damián Buch Repo:
+- Damián Buch Repo: https://github.com/Damiano7
 - Gisela Medina Repo:
 - Martin Menéndez Repo: https://github.com/bigdatamartin
-- Mauro Cadme Repo:
+- Mauro Cadme Repo: https://github.com/mecadme
 - Miguel Salas Repo: 
 
 ### **Context**
