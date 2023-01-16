@@ -27,7 +27,8 @@ Nuestro rol es el de una consultora internacional llamada "Alpha Insights" la cu
 Con el objetivo principal de continuar conectando pequeñas empresas (*PYMES*) con mercados más grandes y mejorar la experiencia del usuario, Olist nos contrata como consultores externos para encontrar soluciones innovadoras que permitan a sus usuarios vender sus productos a un mayor número de clientes.
 Para lograrlo, Olist nos ha proporcionado sus datos de 2016 a 2018, por lo que deberemos entregar un MVP (*Producto Mínimo Viable*).
 
-![image](https://user-images.githubusercontent.com/112119779/212659641-0bb5bf24-3e0c-4daf-af85-146d150fbc18.png)
+![image](https://user-images.githubusercontent.com/112119779/212675644-ffa8096b-481f-403b-a853-b7922e65d2b5.png)
+
 ![image](https://user-images.githubusercontent.com/112119779/212659726-bac0895c-6bd2-420e-bf35-f8604591a387.png)
 
 
@@ -53,4 +54,6 @@ Nuestra propuesta se basa primordialmente en:
 
 - [Dataset Olist](https://drive.google.com/file/d/1YiZqsF_F4OIdjLCq4sba2XXjPxU7LlgE/view?usp=sharing)
 
+## **Contáctanos**
 
+[![image](https://user-images.githubusercontent.com/112119779/212675006-07de84ae-d004-4a08-979f-2d7bbc139290.png)](https://alphainsights.online/)
