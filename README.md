@@ -42,6 +42,8 @@ Our proposal is based primarily on:
 
 - `Training and putting into production a machine learning model`:
     * A **Product Recommendation Model** and a **Sentiment Analysis** model on reviews were implemented.
+    ![image](https://user-images.githubusercontent.com/112119779/212782598-85bc7a27-a8b9-41c3-aedf-8b4663081858.png)
+
 
 ## **Datasets and complementary sources**
 
