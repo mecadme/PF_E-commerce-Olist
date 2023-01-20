@@ -51,4 +51,4 @@ Our proposal is based primarily on:
 - [Dataset Olist](https://drive.google.com/file/d/1YiZqsF_F4OIdjLCq4sba2XXjPxU7LlgE/view?usp=sharing)
 
 ## **Contact us**
-[![image](https://user-images.githubusercontent.com/112119779/212673831-f45bb12f-bc21-4608-9547-fe6f1cb6eb9d.png)](www.alphainsights.online)
+[![image](https://user-images.githubusercontent.com/112119779/212673831-f45bb12f-bc21-4608-9547-fe6f1cb6eb9d.png)]([www.alphainsights.online](http://www.alphainsights.online/index.html))
