@@ -56,4 +56,4 @@ Nuestra propuesta se basa primordialmente en:
 
 ## **Contáctanos**
 
-[![image](https://user-images.githubusercontent.com/112119779/212675006-07de84ae-d004-4a08-979f-2d7bbc139290.png)](https://alphainsights.online/)
+[![image](https://user-images.githubusercontent.com/112119779/212675006-07de84ae-d004-4a08-979f-2d7bbc139290.png)](http://www.alphainsights.online/index.html)
