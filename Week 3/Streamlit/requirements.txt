@@ -1,0 +1,9 @@
+folium==0.14.0
+matplotlib==3.6.3
+nltk==3.8.1
+numpy==1.24.1
+pandas==1.5.3
+seaborn==0.12.2
+streamlit_folium==0.11.0
+translators==5.5.6
+scikit-learn==1.2.1
