@@ -1,11 +1,25 @@
-# **Proyecto Grupal: E-commerce Olist**
+#  <h1 align=center> **Proyecto Grupal: E-commerce Olist** </h1>
 
-![img](https://github.com/mecadme/PF_E-commerce-Olist/blob/main/Images/olist%20principal.png?raw=true)
+<p align="center">
 
-## **Tabla de contenidos**
+<img src= "https://github.com/mecadme/PF_E-commerce-Olist/blob/main/Images/olist%20principal.png?raw=true" height=400>
+</p> 
+
+<hr> 
+
+# *Table of Contents* 
++ [1- Integrantes del Grupo.](#integrantes-del-grupo)
++ [2- Descripción del Problema.](#descripción-del-problema)
++ [3- Propuesta de Trabajo.](#propuesta-de-trabajo)
++ [4- Datasets y Fuentes Complementarias.](#datasets-y-fuentes-complementarias)
++ [5- Satck Tecnológico.](#stack-tecnológico)
++ [6- Informes.](#informes)
++ [7- Contáctanos.](#contáctanos)
 
 
-## **Descripción del problema (Contexto y rol a desarrollar)**
+<hr>  
+
+## *Integrantes del Grupo*
 
 Somos un grupo de 5 integrantes del Bootcamp de Henry, y éste es nuestro Proyecto Final.
 - [Damián Buch GitHub](https://github.com/Damiano7)
@@ -14,13 +28,15 @@ Somos un grupo de 5 integrantes del Bootcamp de Henry, y éste es nuestro Proyec
 - [Mauro Cadme GitHub](https://github.com/mecadme)
 - [Miguel Salas GitHub](https://github.com/Emblask39)
 
-### **Contexto**
+## *Descripción del Problema*  
+
+### *Contexto*
 
 >En 2021, las ventas minoristas a través de comercio electrónico significaron un saldo aproximado de 5,2 billones de dólares a nivel mundial y se dice que esta cifra aumentará un 56% en los próximos años, alcanzando los 8,1 billones en 2026.
 
 >Olist es una empresa brasileña que brinda servicios de comercio electrónico para PYMES <i>(Pequeñas y Medianas Empresas)</i> que funciona como un mercado, es decir, funciona como una "tienda de tiendas" donde diferentes vendedores pueden ofrecer sus productos a los consumidores finales.
 
-### **Rol a desarrollar**
+### *Rol a desarrollar*
 
 Nuestro rol es el de una consultora internacional llamada "Alpha Insights" la cual está conformada por 5 integrantes, cada uno con una especialidad y un puesto de trabajo específico.
 
@@ -32,7 +48,7 @@ Para lograrlo, Olist nos ha proporcionado sus datos de 2016 a 2018, por lo que d
 ![image](https://user-images.githubusercontent.com/112119779/212659726-bac0895c-6bd2-420e-bf35-f8604591a387.png)
 
 
-## **Propuesta de trabajo**  
+## *Propuesta de Trabajo* 
 
 Nuestra propuesta se basa primordialmente en:
 
@@ -48,12 +64,29 @@ Nuestra propuesta se basa primordialmente en:
 - `Entrenamiento y puesta en producción de un modelo de machine learning`: 
     * Se implementó un **Modelo de Recomendación de Productos** y un modelo de **Análisis de Sentimiento** sobre reviews.
 
-## **Datasets y fuentes complementarias** 
+## *Datasets y Fuentes Complementarias*  
 
-### **Fuente principal**  
+### *Fuente principal*  
 
 - [Dataset Olist](https://drive.google.com/file/d/1YiZqsF_F4OIdjLCq4sba2XXjPxU7LlgE/view?usp=sharing)
 
-## **Contáctanos**
+## *Stack Tecnológico*
+
+- Python
+- Pandas
+- Sickit Learn
+- AirFlow
+- AWS (S3 - Glue DataBrew - Redshift - QuickSight - IAM)
+- Streamlit
+
+## *Informes*
+
++ [EDA](https://github.com/mecadme/PF_E-commerce-Olist/blob/main/Week%201/EDA.ipynb)
++ [ETL](https://github.com/mecadme/PF_E-commerce-Olist/blob/main/Week%201/ETL.ipynb)
++ [Week 1](https://github.com/mecadme/PF_E-commerce-Olist/tree/main/Week%201/Week%201)
++ [Week 2](https://github.com/mecadme/PF_E-commerce-Olist/tree/main/Week%202/Week%202)
++ [Week 3](https://github.com/mecadme/PF_E-commerce-Olist/tree/main/Week%203)
+
+## *Contáctanos*
 
 [![image](https://user-images.githubusercontent.com/112119779/212675006-07de84ae-d004-4a08-979f-2d7bbc139290.png)](https://alphainsights.000webhostapp.com/)
