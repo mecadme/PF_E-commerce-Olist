@@ -78,6 +78,7 @@ Nuestra propuesta se basa primordialmente en:
 - AirFlow
 - AWS (S3 - Glue DataBrew - Redshift - QuickSight - IAM)
 - Streamlit
+- Studio Code
 
 ## *Informes*
 
