@@ -91,4 +91,4 @@ Our proposal is based primarily on:
 + [Week 3](https://github.com/mecadme/PF_E-commerce-Olist/tree/main/Week%203)
 
 ## *Contact us*
-[![image](https://user-images.githubusercontent.com/112119779/212673831-f45bb12f-bc21-4608-9547-fe6f1cb6eb9d.png)](http://www.alphainsights.online/index.html)
+[![image](https://user-images.githubusercontent.com/112119779/212673831-f45bb12f-bc21-4608-9547-fe6f1cb6eb9d.png)](https://alphainsights.000webhostapp.com/)
