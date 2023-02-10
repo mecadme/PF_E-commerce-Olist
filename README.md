@@ -5,6 +5,8 @@
 <img src= "https://github.com/mecadme/PF_E-commerce-Olist/blob/main/Images/olist%20principal.png?raw=true" height=400>
 </p> 
 
+<hr> 
+
 # *Table of Contents* 
 + [1- Group Members.](#group-members)
 + [2- Problem Description.](#problem-description)
