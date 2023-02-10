@@ -75,13 +75,9 @@ Our proposal is based primarily on:
 - Pandas
 - Sickit Learn
 - AirFlow
-- AWS
- - S3 Buckets
- - Glue DataBrew
- - Redshift
- - QuickSight
- - IAM
+- AWS (S3 - Glue DataBrew - Redshift - QuickSight - IAM)
 - Streamlit
+- Studio Code
 
 ## *Reports* 
 + [EDA](https://github.com/mecadme/PF_E-commerce-Olist/blob/main/Week%201/EDA.ipynb)
